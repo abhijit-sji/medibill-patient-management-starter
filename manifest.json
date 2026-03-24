@@ -1,0 +1,30 @@
+{
+  "slug": "patient-management",
+  "displayName": "Patient Management",
+  "version": "1.0.0",
+  "description": "Comprehensive patient management module with CRUD operations, self-registration portal, patient alerts, recall tracking, document management, and bulk import capabilities.",
+  "icon": "Users",
+  "category": "Clinical",
+  "fileCount": 28,
+  "tableCount": 5,
+  "componentCount": 12,
+  "hookCount": 5,
+  "edgeFunctionCount": 5,
+  "features": [
+    "Patient CRUD",
+    "Self-registration portal",
+    "Patient alerts",
+    "Recall management",
+    "Document tracking",
+    "Bulk CSV import"
+  ],
+  "techTags": [
+    "Supabase Auth",
+    "Zod validation",
+    "React Hook Form",
+    "Supabase Edge Functions"
+  ],
+  "status": "stable",
+  "lastUpdated": "2026-03-13",
+  "manifestPath": "src/modules/patient-management/manifest.json"
+}
